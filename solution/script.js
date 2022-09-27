@@ -84,3 +84,5 @@ playAgainBtn.addEventListener('click', () => {
                     }
                     errors=0;
 });
+
+//Changes for github
