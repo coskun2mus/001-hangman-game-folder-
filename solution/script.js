@@ -6,7 +6,6 @@ const playAgainBtn = document.getElementById('play-button');
 const playAgain=document.getElementById('play-button');
 const finalMessage = document.getElementById('final-message');
 const finalMessageRevealWord = document.getElementById('final-message-reveal-word');
-
 const words = ['ask','application', 'programming', 'interface', 'wizard','apple', 'banana'];
 
 function random_word(){
