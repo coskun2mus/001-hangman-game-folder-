@@ -1,1 +1,0 @@
-%%%% This is a super game developed by a super team.%%%%%
